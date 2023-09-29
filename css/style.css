@@ -1,0 +1,29 @@
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+font-family: 'Orbitron', sans-serif;
+}
+
+
+
+#sec-1{
+	background:linear-gradient(#000000a6,#000000a6),url("background-image/back-1.jpeg");
+	background-attachment:fixed;
+	background-size:cover;
+	/* height:100vh; */
+	display:flex;
+	align-items:center;
+}
+
+
+.up{
+	position:absolute;
+	bottom:10px!important;
+	left:40px!important;
+	
+}
+
+.pad{
+	padding:40px 80px!important;
+}
